@@ -1,1 +1,1 @@
-# infm600-digital-health
+# infm600-digital-health-prediction-tool
